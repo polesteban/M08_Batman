@@ -1,0 +1,30 @@
+img, iframe{
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 500px;
+        height: 250px;
+        text-align: justify;
+        text-align-last: left;
+}
+header {
+        background-image: url(img_batman/header_background.jpeg);
+        background-size: cover;
+        background-position: center;
+        color: #fff;
+        padding: 280px;
+        text-align: justify;
+}
+p {
+   
+        margin-left: 20%;
+        margin-right: 20%;
+        text-align: justify;
+        text-align-last: left;
+     
+}
+iframe {
+        margin-left: 20%;
+        margin-right: 20%;
+        text-align: justify;
+        text-align-last: left;
+}
